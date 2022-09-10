@@ -1,0 +1,1 @@
+class ConvertCurrencyException extends Exception {}

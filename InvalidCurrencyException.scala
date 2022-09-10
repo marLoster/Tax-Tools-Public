@@ -1,0 +1,1 @@
+class InvalidCurrencyException() extends Exception {}
